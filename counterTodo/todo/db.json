@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Typescript",
+      "status": false
+    },
+    {
+      "title": "m",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "rrr",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "ash",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "learn react",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "learn redux",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "learn FSWD",
+      "status": false,
+      "id": 7
+    }
+  ]
+}
